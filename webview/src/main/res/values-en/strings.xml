@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flora WebBrowser</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="enter_url">Enter the URL.</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_move">Move</string>
+    <string name="btn_forward">Forward</string>
+</resources>

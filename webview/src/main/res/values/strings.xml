@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">간단한 웹브라우저</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_url">URL을 입력하세요.</string>
+    <string name="btn_move">이동</string>
+    <string name="btn_back">이전</string>
+    <string name="btn_forward">앞으로</string>
+</resources>
