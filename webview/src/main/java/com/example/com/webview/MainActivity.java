@@ -35,7 +35,6 @@ public class MainActivity extends AppCompatActivity {
             case R.id.btnGo:
                 if(value == false) {
                     edtUrl.setText("http://" + temp);
-                    web.loadUrl(edtUrl.getText().toString());
                 }
                 else
                     web.loadUrl(edtUrl.getText().toString());
