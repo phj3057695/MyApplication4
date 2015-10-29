@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
     class FloraWebViewClient extends WebViewClient{
-        String url;
+       // String url;
         @Override
         public void onPageFinished(WebView view, String url) {
             super.onPageFinished(view, url);
