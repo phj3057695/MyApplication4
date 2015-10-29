@@ -36,12 +36,10 @@ public class MainActivity extends AppCompatActivity {
                 if(value == false) {
                     edtUrl.setText("http://" + temp);
                     web.loadUrl(edtUrl.getText().toString());
-
                 }
                 else
                     web.loadUrl(edtUrl.getText().toString());
                 break;
-
             case R.id.btnBack:
                 web.goBack();
                 break;
